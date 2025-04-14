@@ -1,0 +1,58 @@
+{
+    "create": {
+        "user": {
+            "name": "Pedrin Raynons",
+            "email": "Pedro@apple.com",
+            "password": "joao12"
+        },
+        "task": {
+            "name": "Criar uma nova versão do Ipod",
+            "tags": ["ios", "music", "ipod"]
+        }
+    },
+    "duplicate": {
+        "user": {
+            "name": "Rexona pae",
+            "email": "PaeRex@apple.com",
+            "password": "pwd321"
+        },
+        "task": {
+            "name": "Criar um novo rexona 24horas",
+            "tags": []
+        }
+    },
+    "tags_limit": {
+        "user": {
+            "name": "Eliel pai",
+            "email": "elielPai@msn.com",
+            "password": "pwd098"
+        },
+        "task": {
+            "name": "Comprar fralda",
+            "tags": ["Trabalhar", "Dinheiro", "Filho", "Fralda"]
+        }
+    },
+    "done": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "tony@stark.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Criar uma nova IA",
+            "tags": ["Ultron", "Jarvis", "Ark"]
+        }
+    },
+    "delete": {
+        "user": {
+            "name": "Charllys Xavier",
+            "email": "Xavier@png.com",
+            "password": "xavier97"
+        },
+        "task": {
+            "name": "Criar vilões mutantes",
+            "tags": ["Lex luthor", "Coringa", "Flash reverse"]
+        }
+    }
+    
+}
